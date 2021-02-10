@@ -1,0 +1,12 @@
+C:\Users\Roman\source\repos\HRTestApplication\PersonLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Roman\source\repos\HRTestApplication\PersonLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Roman\source\repos\HRTestApplication\PersonLibrary\bin\Debug\Dapper.dll
+C:\Users\Roman\source\repos\HRTestApplication\PersonLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Users\Roman\source\repos\HRTestApplication\PersonLibrary\bin\Debug\Dapper.xml
+C:\Users\Roman\source\repos\HRTestApplication\PersonLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Users\Roman\source\repos\HRTestApplication\PersonLibrary\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Roman\source\repos\HRTestApplication\PersonLibrary\obj\Debug\PersonLibrary.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\HRTestApplication\PersonLibrary\obj\Debug\PersonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\HRTestApplication\PersonLibrary\obj\Debug\PersonLibrary.csproj.CopyComplete
+C:\Users\Roman\source\repos\HRTestApplication\PersonLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Roman\source\repos\HRTestApplication\PersonLibrary\obj\Debug\DemoLibrary.pdb

@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=382fd707_002D0fea_002D456c_002D82cd_002D5998a9248510/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UpdatePerson" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::63C6F1D6-74E5-4584-BFD6-9B75BCAF2E06::.NETFramework,Version=v4.7.2::PersonLibraryTest.SqliteDataAccessTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::63C6F1D6-74E5-4584-BFD6-9B75BCAF2E06::.NETFramework,Version=v4.7.2::PersonLibraryTest.CalculateSalaryTest.EmployeeSalary&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::63C6F1D6-74E5-4584-BFD6-9B75BCAF2E06::.NETFramework,Version=v4.7.2::PersonLibraryTest.CalculateSalaryTest.getManagerSalary&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::63C6F1D6-74E5-4584-BFD6-9B75BCAF2E06::.NETFramework,Version=v4.7.2::PersonLibraryTest.CalculateSalaryTest.SalesManSalary&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::63C6F1D6-74E5-4584-BFD6-9B75BCAF2E06::.NETFramework,Version=v4.7.2::PersonLibraryTest.CalculateSalaryTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=805c2454_002D1532_002D47c3_002Db8b8_002D64d62808bc5b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoadAllPersons_shouldGetList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::63C6F1D6-74E5-4584-BFD6-9B75BCAF2E06::.NETFramework,Version=v4.7.2::PersonLibraryTest.SqliteDataAccessTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

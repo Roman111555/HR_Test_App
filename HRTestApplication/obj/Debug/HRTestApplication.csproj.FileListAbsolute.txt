@@ -1,0 +1,10 @@
+C:\Users\Roman\source\repos\HRTestApplication\HRTestApplication\obj\Debug\HRTestApplication.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\HRTestApplication\HRTestApplication\obj\Debug\HRTestApplication.Properties.Resources.resources
+C:\Users\Roman\source\repos\HRTestApplication\HRTestApplication\obj\Debug\HRTestApplication.csproj.GenerateResource.cache
+C:\Users\Roman\source\repos\HRTestApplication\HRTestApplication\obj\Debug\HRTestApplication.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\HRTestApplication\HRTestApplication\bin\Debug\persons.db
+C:\Users\Roman\source\repos\HRTestApplication\HRTestApplication\bin\Debug\HRTestApplication.exe.config
+C:\Users\Roman\source\repos\HRTestApplication\HRTestApplication\bin\Debug\HRTestApplication.exe
+C:\Users\Roman\source\repos\HRTestApplication\HRTestApplication\bin\Debug\HRTestApplication.pdb
+C:\Users\Roman\source\repos\HRTestApplication\HRTestApplication\obj\Debug\HRTestApplication.exe
+C:\Users\Roman\source\repos\HRTestApplication\HRTestApplication\obj\Debug\HRTestApplication.pdb
